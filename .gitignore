@@ -1,0 +1,37 @@
+# macOS and editor metadata
+.DS_Store
+._*
+*.swp
+*.swo
+*~
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Python environments and packaging output
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+.ipython/
+
+# Mathematica notebook backups
+*.nb~
+*.ma~
+
+# Local configuration and logs
+.env
+.env.*
+!.env.example
+*.log
