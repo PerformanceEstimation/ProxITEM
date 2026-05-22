@@ -1,4 +1,4 @@
-# Optimal Forward-Backward Algorithms
+# An optimal first-order method for smooth and strongly convex composite optimization and its stationary limit
 
 This repository contains code for reproducing and verifying the main results of:
 
@@ -16,4 +16,3 @@ This repository contains code for reproducing and verifying the main results of:
 
 - `symbolic_validations/`: symbolic verification of closed-form expressions; requires SymPy or Mathematica.
 - `numerical_validations/`: numerical experiments; requires PEPit.
-
