@@ -14,5 +14,5 @@ This repository contains code for reproducing and verifying the main results of:
 
 ## Repository Organization
 
-- `symbolic_validations/`: symbolic verification of closed-form expressions; requires SymPy or Mathematica.
-- `numerical_validations/`: numerical experiments; requires PEPit.
+- `symbolic_validations/`: symbolic verification of closed-form expressions; requires [SymPy](https://www.sympy.org/en/index.html) or Mathematica.
+- `numerical_validations/`: numerical verications of final bounds; requires [PEPit](https://github.com/PerformanceEstimation/PEPit/).
